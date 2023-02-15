@@ -1,0 +1,58 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	background-color: white;
+}
+
+
+.img-fluid{
+	width: 300px;
+	margin-left: 250px;
+}
+  
+.button {
+	margin: 0px 20px;
+	background: linear-gradient(to right,#0077bc,turquoise);
+	border: 2px solid rgb(90, 212, 228);
+	border-radius: 20px 20px;
+	color: blue;
+	padding: 0 10px;
+	font-size: 14px;
+	font-weight: 600;
+  }
+  
+  .button:hover {
+	color: white;
+	background-color: rgb(226, 89, 112);
+  }
+  h3{
+	  width: 100%;
+	  text-align: center;
+  }
+  .paragraph{
+	  text-align: center;
+	  margin-top: 20px;
+  }
+  .form-group{
+	margin-right: 250px;
+	margin-bottom:12px;
+  }
+  .form-control{
+	border-radius: 18px; 
+  }
+  .btn{
+	  width: 100%;
+	  color:blue;
+	  border-radius: 18px;
+	  margin-bottom: 50px;
+  }
+  .btn:hover {
+	color: white;
+	background-color: rgb(226, 89, 112);
+  }
+  .navbar-brand{
+	font-family: 'Ubuntu', sans-serif;
+  }

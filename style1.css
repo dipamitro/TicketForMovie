@@ -1,0 +1,13 @@
+.container{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 25px;
+    border: 2px solid lightseagreen;
+    background-color: antiquewhite;
+    box-shadow: 3px 4px 6px;
+    border-radius: 15px;
+    padding: 300px;
+    display:flex;
+}
